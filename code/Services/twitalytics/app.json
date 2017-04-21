@@ -1,0 +1,6 @@
+{
+  "image": "heroku/jvm",
+  "addons": [
+    "heroku-postgresql"
+  ]
+}
